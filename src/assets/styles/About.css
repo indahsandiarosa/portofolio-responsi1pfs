@@ -1,0 +1,45 @@
+.body9 {
+    background-image: url('ai3.jpeg');
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+.details {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.detail-item {
+    width: 30%;
+    background-color: #ffffff91;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.detail-item i {
+    font-size: 36px;
+    color: #00bfa5;
+    margin-bottom: 10px;
+}
+.detail-item h3 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+}
+.detail-item p {
+    font-size: 14px;
+    color: #666;
+}
+

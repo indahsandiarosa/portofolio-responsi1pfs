@@ -1,0 +1,61 @@
+.footer p {
+    margin: 0;
+    color: #fff; /* Warna putih untuk teks */
+  }
+  
+
+h2 {
+    font-weight: 700;
+    color: #2e2e2e;
+}
+
+/* Listbox Container Styling */
+.listbox-container {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+}
+
+/* Listbox Wrapper */
+.listbox-wrapper {
+    margin-top: 20px;
+    display: flex;
+    transition: transform 0.5s ease;
+}
+
+/* List Item Styling */
+.list-item {
+    min-width: 300px; /* Lebar setiap item List */
+    margin: 0 10px; /* Spasi antar list item */
+}
+
+.card-img-top {
+    min-height: 200px;
+    min-width: 300px;
+}
+
+.card-body {
+    background-color: #4a618a7c;
+    min-height: 300px;
+}
+
+.card-body p {
+    margin-bottom: 20px;
+}
+
+.card-body button {
+    margin-top: 50px;
+}
+
+.btn-primary {
+    display: block; /* Ubah tombol menjadi elemen blok */
+    margin: 0 auto; /* Rata tengah secara horizontal */
+    width: 50%; /* Lebar tombol lebih panjang */
+    text-align: center; /* Teks di dalam tombol rata tengah */
+    background-color: #0b9a65;
+  }
+
+  .btn-primary:hover {
+    background-color: #0d3e2b; /* Warna ungu lebih gelap saat hover */
+  }

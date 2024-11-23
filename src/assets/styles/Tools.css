@@ -1,0 +1,55 @@
+body7 {
+    background-color: #111;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container2 {
+    padding: 50px 0;
+    display: flex; /* Menggunakan flexbox untuk penyusunan */
+    flex-direction: column; /* Susun item secara vertikal */
+    justify-content: center; /* Menyelaraskan item secara vertikal */
+    align-items: center; /* Menyelaraskan item secara horizontal */
+    height: 100vh; /* Membuat container memiliki tinggi 100% dari viewport */
+    background-color: #e6dff1;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 16px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: 70px;
+    margin-left: 130px;
+}
+
+.grid-item {
+    background-color: #4A628A;
+    padding: 20px;
+    border-radius: 5px;
+    width: 100px;   /* Set a fixed width */
+    height: 100px;  /* Set the height equal to the width to make it square */
+    display: flex;  /* Use flexbox to center the content */
+    justify-content: center; /* Horizontally center the image */
+    align-items: center; /* Vertically center the image */
+}
+
+.grid-item img {
+    width: 50px;
+    height: 50px;
+}

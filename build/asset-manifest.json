@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50b83ea9.css",
+    "main.js": "/static/js/main.62875ab7.js",
+    "static/js/453.fbb1e36f.chunk.js": "/static/js/453.fbb1e36f.chunk.js",
+    "static/media/itemlist1.png": "/static/media/itemlist1.d4633708f0a731755fa7.png",
+    "static/media/itemlist3.png": "/static/media/itemlist3.222c1bd3ba77fc550801.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/reactlogo.png": "/static/media/reactlogo.fb59dfc6bb1bac6b0ad0.png",
+    "static/media/logonet.png": "/static/media/logonet.54a4b33a8169abe2a87a.png",
+    "static/media/itemlist2.png": "/static/media/itemlist2.829bc7f7703900ecc0e8.png",
+    "static/media/box3.png": "/static/media/box3.5560b1b5e06c90317cd6.png",
+    "static/media/logojs.png": "/static/media/logojs.92169892ea013a5154bd.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/itemlist5.png": "/static/media/itemlist5.906abf283f3ed9a24ab6.png",
+    "static/media/logovscode.png": "/static/media/logovscode.5a0a1acf7f2fbc224ad0.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/itemlist6.jpeg": "/static/media/itemlist6.c08e2297527a7937cbd9.jpeg",
+    "static/media/ai3.jpeg": "/static/media/ai3.108b23e49ab12f7f4904.jpeg",
+    "static/media/itemlist4.png": "/static/media/itemlist4.73050e467ba3a2931691.png",
+    "static/media/logoboot.png": "/static/media/logoboot.02e16df6861464872846.png",
+    "static/media/smallbox.png": "/static/media/smallbox.b610d2ef2de175fff5c2.png",
+    "static/media/logocl.png": "/static/media/logocl.30e8acff157f8fa06702.png",
+    "static/media/logofigma.png": "/static/media/logofigma.aba1119b76eacbdaac37.png",
+    "static/media/logocss.png": "/static/media/logocss.bc75ccc78e3bf74f8aed.png",
+    "static/media/logosql.png": "/static/media/logosql.488adcf99a97181e54ce.png",
+    "index.html": "/index.html",
+    "main.50b83ea9.css.map": "/static/css/main.50b83ea9.css.map",
+    "main.62875ab7.js.map": "/static/js/main.62875ab7.js.map",
+    "453.fbb1e36f.chunk.js.map": "/static/js/453.fbb1e36f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50b83ea9.css",
+    "static/js/main.62875ab7.js"
+  ]
+}
